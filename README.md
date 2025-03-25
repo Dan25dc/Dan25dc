@@ -1,5 +1,5 @@
 
-# ¡Hola! 👋 Daniel Ayala Cervantes
+# ¡Hola! 👋 Soy Daniel Ayala Cervantes
 💻 Desarrollador web apasionado por el código y el aprendizaje constante. 
 
 📚 Actualmente aprendiendo React y NestJS
